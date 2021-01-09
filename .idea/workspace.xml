@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0057e424-8147-4e85-bb08-c72395e980ea" name="Default Changelist" comment="" />
+    <list default="true" id="0057e424-8147-4e85-bb08-c72395e980ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch99/blog/templates/taggit/taggit_cloud.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch99/blog/templates/taggit/taggit_post_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch99/blog/templates/blog/post_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/ch99/blog/templates/blog/post_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch99/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch99/blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch99/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch99/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch99/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/ch99/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch99/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch99/mysite/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +25,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1h5wb9a9nm3Jxz1sHwCY8YeZOyb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,11 +37,14 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/바탕 화면/Instagram-master" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../termproject" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\djangoBluebook\ch99\blog\templates" />
+      <recent name="C:\djangoBluebook\ch99\blog\templates\blog\templates\taggit" />
       <recent name="C:\djangoBluebook\ch99" />
     </key>
   </component>
@@ -43,13 +60,17 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="266" key="FileChooserDialogImpl" timestamp="1610064995468">
+    <state x="740" y="266" key="FileChooserDialogImpl" timestamp="1610093089754">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="740" y="266" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1610064995468" />
+    <state x="740" y="266" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1610093089754" />
     <state x="461" y="169" key="SettingsEditor" timestamp="1610067440370">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1610067440370" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1610079437730">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1610079437730" />
   </component>
 </project>
